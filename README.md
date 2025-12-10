@@ -1,39 +1,47 @@
-# library-search
+# 📚 Library Search
 
-A small and simple Library Management System project built with **Java** and **SQL**, allowing users to view, borrow, and return books. Admin users can manage the library by adding or removing books. This project demonstrates the use of relational databases, Java backend, and basic web interfaces.
-
----
-
-## Features
-
-### User
-- Register and log in
-- View all available books
-- Borrow books
-- Return books
-- View personal loan history
-
-### Admin
-- Log in as admin
-- Add new books
-- Remove existing books
-- View all reports
-
-### Reports
-- List of currently borrowed books
-- Most borrowed books
+A **small and simple Library Management System** built with **Java** and **SQL**, allowing users to **view, borrow, and return books**.  
+Admin users can **manage the library** by adding or removing books.  
+This project demonstrates the use of **relational databases**, **Java backend**, and **basic web interfaces**.
 
 ---
 
-## Tech Stack
+## ✨ Features
 
-- **Java 21** – Backend
-- **JDBC / Spring Boot** – Database connection and web server
-- **SQL** – MySQL/PostgreSQL database
-- **Thymeleaf / HTML** – Simple frontend
-- **Maven** – Build and dependency management
+### 👤 User
+- ✅ Register and log in
+- ✅ View all available books
+- ✅ Borrow books
+- ✅ Return books
+- ✅ View personal loan history
+- ✅ View some reports
+
+### 🛠 Admin
+- ✅ Log in as admin
+- ✅ Add new books
+- ✅ Remove existing books
+- ✅ View all reports
+
+### 📊 Reports
+- 📌 List of currently borrowed books
+- 📌 Most borrowed books
+- 📌 Most active user
+- 📌 Most popular Author and Genre
 
 ---
 
-## How to use
-access will be available on library.jxunified.eu when project is done
+## 💻 Tech Stack
+
+- **Java 21** – Backend  
+- **JDBC / Spring Boot** – Database connection and web server  
+- **SQL** – MySQL/PostgreSQL database  
+- **Thymeleaf / HTML** – Simple frontend  
+- **Maven** – Build and dependency management  
+
+---
+
+## 🚀 How to Use
+
+Access the project online here: [📖 Library Search](https://library.jxunified.eu)
+
+*(Will be available when the project is deployed)*
